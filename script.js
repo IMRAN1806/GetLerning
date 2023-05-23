@@ -1,0 +1,7 @@
+function result(){
+
+}
+function clear()
+{
+    
+}
